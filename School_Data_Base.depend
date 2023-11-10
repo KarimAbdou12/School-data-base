@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1698931528 source:e:\on line 15\diplomaproject\school data base\school_data_base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"newtypes.h"
+	"prototypes.h"
+
+1698834870 e:\on line 15\diplomaproject\school data base\school_data_base\newtypes.h
+
+1698886882 e:\on line 15\diplomaproject\school data base\school_data_base\prototypes.h
+
+1699649899 source:e:\on line 15\diplomaproject\school data base\school_data_base\school_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"newtypes.h"
+	"prototypes.h"
+
+1698890530 source:e:\on line 15\diplomaproject\school data base\school_data_base\general_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"newtypes.h"
+	"prototypes.h"
+
